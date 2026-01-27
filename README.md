@@ -1,3 +1,7 @@
+– THIS IS NOT A SHOW CASE
+– THIS IS A TRACE
+READ ONLY IF YOU CARE ABOUT SIGNAL OVER NOISE
+
 # Systemanalyse der Mensch-KI-Interaktion und Dialogdynamik
 
 ## Überblick
