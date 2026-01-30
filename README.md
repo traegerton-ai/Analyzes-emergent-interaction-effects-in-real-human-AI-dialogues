@@ -29,3 +29,5 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 ## Ûbersicht & Analyse Verweise
    1. 2026-01-30 Implicit Paralinguistic Modulation in Text Basd AI Interaction: 
       [View analysis »](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/a52c868782af759731d275d83c4fc97a2eac870e/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction)
+
+[Workaround»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/a52c868782af759731d275d83c4fc97a2eac870e/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction)
