@@ -6,7 +6,7 @@ Autor:
 Date: 26 October 2025
 
 
-Proposal for a developer-facing metric to identify and analyze user-dialogiclogic impact on LLM evolution.
+Proposal for a developer-facing metric to identify and analyze user-dialog Problem impact on LLM evolution.
 
 ---
 
