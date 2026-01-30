@@ -11,11 +11,11 @@ and shift the model into a defensive mode A largely unexamined dynamic in dialog
 are not primarily interpreted as collaborative,
 but rather as signals of low tolerance for error.
 
-___
+__
 
 **This does not degrade output quality.**
 
-___
+__
 
 ## Instead, it induces a mode shift in the model’s response behavior:
 >* increased safeguarding and hedging
