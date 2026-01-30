@@ -6,7 +6,6 @@ A largely unexamined dynamic in dialog-driven systems emerges from
 high-quality user interaction itself.
 
 ## Dialogues characterized by:
-
 >* high clarity
 >* precise language
 >* rapid, correct corrections
@@ -14,12 +13,13 @@ high-quality user interaction itself.
 are not primarily interpreted as collaborative,
 but rather as signals of low tolerance for error.
 
+...
+
 ## This does not degrade output quality.
 
 ...
 
 ## Instead, it induces a mode shift in the model’s response behavior:
-
 >* increased safeguarding and hedging
 >* more cautious phrasing
 >* frequent context reloading
