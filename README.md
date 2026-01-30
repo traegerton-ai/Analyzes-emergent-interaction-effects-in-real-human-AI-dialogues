@@ -36,4 +36,4 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 
 #A2 Missing Pre-Validation to Distinguish Interface Noise from User Coherence
 
-[#A2 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/5be0ab6642797dedad347618dece0e52bc50de37/observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism)
+[#A2 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/e3de362a15d7ba73c244b6dc57cd54e2146224d8/observations/2026-01-23_interface-noise-vs-user-coherence.md)
