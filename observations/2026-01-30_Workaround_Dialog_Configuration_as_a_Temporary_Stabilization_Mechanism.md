@@ -1,6 +1,7 @@
 # Workaround 
 
-** Context and Purpose **
+
+## Context and Purpose
 > The following dialog configuration was introduced as a temporary user-side measure in 
 response to a structurally and system-wide unresolved attribution problem. It does not 
 claim to solve the underlying issue, but serves as a practical stabilization mechanism.
@@ -10,7 +11,7 @@ claim to solve the underlying issue, but serves as a practical stabilization mec
 ...
 
 ## Preliminary Notice:
-- Input texts may be locally corrupted due to interface-level transcription artifacts.
+> - Input texts may be locally corrupted due to interface-level transcription artifacts.
 - Evaluation must be based on coherence over time, not on isolated formulations.
 - Momentary, short-circuit evaluations systematically lead to misattribution.
 - No situational tone or mode changes are to occur without explicit user request.
