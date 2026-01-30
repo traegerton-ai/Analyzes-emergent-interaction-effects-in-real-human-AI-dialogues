@@ -2,8 +2,10 @@
 are systemically interpreted as “low error tolerance”
 and shift the model into a defensive mode
 
+
 A largely unexamined dynamic in dialog-driven systems emerges from
 high-quality user interaction itself.
+
 
 **Dialogues characterized by:**
 >* high clarity
