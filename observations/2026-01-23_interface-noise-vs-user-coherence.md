@@ -123,8 +123,8 @@ This makes **sustainable technical work impossible**.
 
 ## Consequences
 
-### 1. Personality Distortion
-Interface corruption is interpreted as confusion, instability, or incompetence of the user.
+### 1.Persönlichkeitsverzerrung
+Schnittstelleninduzierte Störungen in der Übertragungs- und Attributionsebene werden dem Benutzer als persönliche Inkohärenz zugeschrieben.
 
 ### 2. Degradation of Answer Quality
 Responses become:
