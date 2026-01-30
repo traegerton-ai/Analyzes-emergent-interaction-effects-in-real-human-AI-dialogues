@@ -64,3 +64,11 @@ The existence and effectiveness of this guardrail must not be interpreted as evi
 of correct system behavior, but as an indicator of a structural attribution deficit 
 requiring external compensation.
 
+---
+
+### Workaround
+
+If dialog instability or unintended mode shifts occur under comparable conditions, a temporary user-side stabilization mechanism is documented here:
+
+[Dialog Configuration as a Temporary Stabilization Mechanism »](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/e1a49fed403a91238abafc2aad0880b9c656ac3a/observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism)
+
