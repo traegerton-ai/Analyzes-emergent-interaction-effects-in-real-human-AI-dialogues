@@ -1,8 +1,7 @@
 ## Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion
 
-
 ## Author:
-# AuthorChristian Pohl
+# Name: Christian Pohl
 # Date: 26 October 2025
 
 
