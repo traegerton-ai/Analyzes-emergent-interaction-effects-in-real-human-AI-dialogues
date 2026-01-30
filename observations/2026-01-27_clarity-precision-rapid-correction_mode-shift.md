@@ -5,7 +5,7 @@
 A largely unexamined dynamic in dialog-driven systems emerges from
 high-quality user interaction itself.
 
-## Dialogues characterized by:
+**Dialogues characterized by:**
 >* high clarity
 >* precise language
 >* rapid, correct corrections
