@@ -5,7 +5,7 @@ The following dialog configuration was introduced as a temporary user-side measu
 response to a structurally and system-wide unresolved attribution problem. It does not 
 claim to solve the underlying issue, but serves as a practical stabilization mechanism.
 
-Dialog Configuration (User-Side)
+## Dialog Configuration (User-Side)
 
 ...
 
