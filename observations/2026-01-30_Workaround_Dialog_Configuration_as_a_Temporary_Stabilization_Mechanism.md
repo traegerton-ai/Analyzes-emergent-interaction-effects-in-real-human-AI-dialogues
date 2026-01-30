@@ -1,13 +1,15 @@
-## Workaround 
-Contextt and Purpose
+# Workaround 
 
+## Contextt and Purpose
 The following dialog configuration was introduced as a temporary user-side measure in 
 response to a structurally and system-wide unresolved attribution problem. It does not 
 claim to solve the underlying issue, but serves as a practical stabilization mechanism.
 
 Dialog Configuration (User-Side)
 
-Preliminary Notice:
+...
+
+## Preliminary Notice:
 - Input texts may be locally corrupted due to interface-level transcription artifacts.
 - Evaluation must be based on coherence over time, not on isolated formulations.
 - Momentary, short-circuit evaluations systematically lead to misattribution.
@@ -30,7 +32,9 @@ here solely as an explanatory model to describe why the preliminary notice is ef
 By doing so, the configuration prevents transient interface-induced artifacts from overriding 
 historically stable dialog coherence.
 
-Observed Effect
+...
+
+## Observed Effect
 After introducing this configuration, dialog behavior stabilized significantly over an extended 
 interaction period.
 
@@ -67,8 +71,6 @@ The existence and effectiveness of this guardrail must not be interpreted as evi
 correct system behavior, but as an indicator of a structural attribution deficit requiring 
 external compensation.
 
-Status
+## Status
 Temporary workaround.
 Structural issue remains unresolved at the system level.
-
-[Workaround – Dialog Configuration](observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism.md)
