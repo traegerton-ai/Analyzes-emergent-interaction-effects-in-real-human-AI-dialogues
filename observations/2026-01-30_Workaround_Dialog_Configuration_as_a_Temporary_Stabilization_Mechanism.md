@@ -15,7 +15,7 @@ Dialog Configuration (User-Side)
 - Momentary, short-circuit evaluations systematically lead to misattribution.
 - No situational tone or mode changes are to occur without explicit user request.
 
-##Relation to P1 and P2
+## Relation to P1 and P2
 
 This configuration does not introduce new evaluation parameters. Instead, it explicitly 
 enforces the correct application of the emergent P1/P2 attribution axes:
