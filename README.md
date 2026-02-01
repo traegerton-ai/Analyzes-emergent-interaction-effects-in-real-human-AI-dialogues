@@ -31,11 +31,12 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 
 [#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/422f7f46d94c7519eb795958059b968260d49e11/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
 
-[#A1 Dialogkonfiguration»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/45004441dec70a1e5eb7bdbe311cc904d2d4425d/observations/Dialogue_Configuration_Attribution_Guardrail_P1_P2.md)
-
 **#A2 Missing Pre-Validation to Distinguish Interface Noise from User Coherence**
 
 [#A2 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/e3de362a15d7ba73c244b6dc57cd54e2146224d8/observations/2026-01-23_interface-noise-vs-user-coherence.md)
+
+
+[#A2 Dialogkonfiguration»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/45004441dec70a1e5eb7bdbe311cc904d2d4425d/observations/Dialogue_Configuration_Attribution_Guardrail_P1_P2.md)
 
 
 **#A3 ResonanceScore Dialog-Expansionsnetzwerk-Erweiterun**
