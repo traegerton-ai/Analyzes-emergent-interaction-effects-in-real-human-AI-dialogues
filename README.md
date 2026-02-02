@@ -29,7 +29,7 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 ## Ûbersicht & Analyse Verweise
 **#A1 Implicit Paralinguistic Modulation in Text Basd AI Interaction**
 
-[#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/422f7f46d94c7519eb795958059b968260d49e11/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
+[#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/main/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
 
 **#A2 Missing Pre-Validation to Distinguish Interface Noise from User Coherence**
 
