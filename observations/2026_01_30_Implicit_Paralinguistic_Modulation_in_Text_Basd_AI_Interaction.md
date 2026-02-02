@@ -9,9 +9,11 @@ mode selection is influenced by structural and symbolic characteristics of the i
 ---
 
 ## Observation:
-Across multiple dialog instances, it was observed that purely text-based submissions—even when containing explicit ethical, moral, and intentional clarifications—frequently triggered a didactic or corrective response mode.This
-This occurred independent of content polarity or 
-argumentative structure and could not be mitigated by further textual clarification.
+Across multiple dialog instances, it was observed that purely text-based submissions—even when containing explicit ethical, moral, and intentional clarifications—frequently triggered a didactic or corrective response mode.
+
+This occurred independent of content polarity or argumentative structure and could not be mitigated by further textual clarification.
+
+---
 
 ## Experimental Variation:
 The identical textual content was resubmitted in a structurally altered form, without semantic 
@@ -22,7 +24,9 @@ modification. The variation included:
 >- symbolic markers (e.g., icons, emojis, structural delimiters),
 >- reader-guiding layout elements.
 
-No changes were made to argumentation, intent declaration, or semantic density.
+**No changes were made to argumentation, intent declaration, or semantic density.**
+
+---
 
 ## Result
 Under structurally and symbolically enriched presentation, the same content no longer triggered 
