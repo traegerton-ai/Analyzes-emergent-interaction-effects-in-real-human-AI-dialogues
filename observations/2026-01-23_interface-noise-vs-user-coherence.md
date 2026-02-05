@@ -2,9 +2,9 @@
 
 ---
 
-Readme documentThis This is not a basis for discussion, but a formal problem description with a defined exclusion logic.
-
-Any divergent evaluation requires a refutation of the decision logic described herein, not alternative interpretations.
+Readme first
+“This document is not a basis for discussion, but a formal problem description with a defined exclusion logic.  
+Any divergent evaluation requires a refutation of the decision logic described herein, not alternative interpretations.”
 
 ---
 
