@@ -1,12 +1,13 @@
 # Systemanalyse der Mensch-KI-Interaktion und Dialogdynamik
 
-## Überblick
 
-Dieses Repository dokumentiert und analysiert die Interaktion zwischen Mensch und KI in realen Anwendungssituationen.
+#Introduction
+This repository analyzes emergent interaction effects in real human–AI dialogues.
+The focus lies on dynamic context shifts, unintended mode changes, misalignment of proximity and distance, and systemic breaks in response behavior that arise only through sustained interaction.
 
-Im Fokus stehen beobachtbare Systemeffekte, Dialogdynamiken, Kontextverarbeitung, Fehlinterpretationen sowie adaptive Korrekturmechanismen, die sich im Verlauf kontinuierlicher Mensch–KI-Interaktion herausbilden.
+All findings are based exclusively on real-world usage, concrete case examples, and structured analysis of actual conversations with large language models.
+No theoretical abstractions or simulated models are used.
 
-Das Material basiert nicht auf theoretischen Modellen, sondern auf praktischer Nutzung, direkter Beobachtung und reflektierter Analyse realer Dialoge mit großen Sprachmodellen.
 
 ## Inhalt
 
