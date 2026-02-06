@@ -10,7 +10,6 @@ No theoretical abstractions or simulated models are used.
 
 
 ## Inhalt
-
 - Strukturierte Beobachtungen aus realen Mensch–KI-Dialogen  
 - Analyse von Kontextverschiebungen und Fehlinterpretationen  
 - Beschreibung von Korrektur- und Anpassungsdynamiken im Dialog  
