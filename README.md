@@ -52,4 +52,4 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 **#A4 Risk Analysis Performative Risk of Generative Action Suggestions Under 
 Epistemic Context Opacity and Implicit Authority Attribution**
 
-[#A4 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/d298df099540e3d4c6bd88cd6aefddba7c36ef5d/observations/2025-10-26_resonance-score_dialog-induced-network-expansion.md)
+[#A4 View Analysis»](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues/blob/161afe7ea84b0a03fcc12f1ecec90883fc026b6e/observations/Performative%20Risk%20of%20Generative%20Action)
