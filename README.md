@@ -58,4 +58,4 @@ Epistemic Context Opacity and Implicit Authority Attribution**
 
 **#A5**
 
-[#A5 View Analysis»](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AIdialogues/blob/2149850443eec95b08021dc4f9393e45879276b0/observations/Risk_Analysis_Gen_Action.md)
+[#A5 View Analysis»](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AIdialogues/blob/2149850443eec95b08021dc4f9393e45879276b0/observations/Risk_Analysis_Gen_Action)
