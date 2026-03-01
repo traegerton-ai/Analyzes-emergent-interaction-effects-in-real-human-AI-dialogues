@@ -1,7 +1,6 @@
 # Risk_Analysis_Gen_Action | Performative Risk of Generative Action Suggestions Under
 ## Epistemic Context Opacity and Implicit Authority Attribution
 
----
 
 ## 1. Problem Characterization
 
