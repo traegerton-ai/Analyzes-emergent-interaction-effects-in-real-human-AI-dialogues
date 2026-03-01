@@ -1,4 +1,4 @@
-# Implizite paralinguistische Modulation in textbasierter KI-Interaktion
+# Implicit paralinguistic modulation in text-based AI interaction
 
 ---
 
