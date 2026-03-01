@@ -23,35 +23,50 @@ The goal of this repository is to create transparency and understanding of how m
 This repository is **not** a theoretical treatise, **not** marketing material, and **not** an AI tutorial.
 It serves solely for the documentation and analytical examination of real-world interactions at the system level.
 
-## Observations
-### Ûbersicht & Analyse Verweise
-**#A1 Implicit Paralinguistic Modulation in Text Basd AI Interaction**
+---
 
-[#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/main/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
+### Observations
 
 ---
 
-**#A2 Missing Pre-Validation to Distinguish Interface Noise from User Coherence**
+### Feature Request
+**.Net: Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion | Oct 26, 2025**  
+[New Feature - ResonanceScore #13296](https://github.com/microsoft/semantic-kernel/issues/13296#issue-3553194408)
 
-[#A2 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/e3de362a15d7ba73c244b6dc57cd54e2146224d8/observations/2026-01-23_interface-noise-vs-user-coherence.md)
-
-
-[#A2 Dialogkonfiguration»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/45004441dec70a1e5eb7bdbe311cc904d2d4425d/observations/Dialogue_Configuration_Attribution_Guardrail_P1_P2.md)
-
----
-
-**#A3 ResonanceScore Dialog-Expansionsnetzwerk-Erweiterun**
-
-[#A3 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/d298df099540e3d4c6bd88cd6aefddba7c36ef5d/observations/2025-10-26_resonance-score_dialog-induced-network-expansion.md)
+**Dialog-Dynamic Monitoring System (DDMS) | Jan 25, 2026**  
+Proposal for a developer-facing monitoring framework to detect, quantify, and analyze emergent structural instabilities in long-form LLM dialogues (constraint drift, resolution reversion, mode shifts, cross-topic contamination). DDMS introduces metric-based observability without modifying the generation core.  
+[New Feature - DDMS #13584](https://github.com/microsoft/semantic-kernel/issues/13584#issue-3978317660)  
 
 ---
 
-**#A4 Risk Analysis Performative Risk of Generative Action Suggestions Under 
-Epistemic Context Opacity and Implicit Authority Attribution**
+### Overview & Analysis References
+**Architectural Observation | Missing Pre-Validation to Distinguish Interface Noise from User Coherence Leads to Forced Logic Injection, Non-Persistence, and Systemic Trust Failure | Jan 24, 2026**  
+[Issue Missing Pre-Validation - #13469](https://github.com/microsoft/semantic-kernel/issues/13469#issue-3850586986)  
 
-[#A4 View Analysis»](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues/blob/61b0ee53cba971d1e6b6fdaf414fa2d3b8b39c00/observations/Risk_Analysis_Gen_Action.md)
+**Supplementary Addendum to Issue #13469 Missing Pre-Validation | Jan 28, 2026**  
+[How is data generated for P1 & P2?](https://github.com/microsoft/semantic-kernel/issues/13469#issuecomment-3901603316)  
+
+*This document is a direct technical continuation of the previously defined problem:
+Missing Pre-Validation to Distinguish Interface Noise from User Coherence.
+In the preceding analysis, a structural gap was identified:*  
+
+<div align="center">
+At the moment of dialog initialization:<br>
+P1 = 0<br>
+P2 = 0<br>
+However, no comparable data set yet exists.
+</div>
 
 ---
 
-**#A5**
-[#A5 View Analysis»](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AIdialogues/blob/2149850443eec95b08021dc4f9393e45879276b0/observations/Risk_Analysis_Gen_Action)
+**Architectural Observation | Systemic Misinterpretation of High-Quality User Interaction as Defensive Signal | Feb 10, 2026**  
+[Issue - #134739](https://github.com/microsoft/semantic-kernel/issues/13473#issue-3860028204)  
+
+**Bug: Speech-to-Text Transcription Errors Are Treated as Semantic Truth, Causing Incorrect Intent Detection and Responses | Feb 15, 2026**  
+[Bug - #13520](https://github.com/microsoft/semantic-kernel/issues/13520#issue-3912511737)  
+
+
+**Architectural Risk | Performative Effects of Generative Action Framing Under Epistemic Context Opacity | Febr 20, 2026**  
+[Issue - #13537](https://github.com/microsoft/semantic-kernel/issues/13537#issue-3928066582)
+
+
