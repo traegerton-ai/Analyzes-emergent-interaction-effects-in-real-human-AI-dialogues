@@ -137,7 +137,7 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 12..Net: Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion
 13. Architectural Observation | User-Calibrated Output Persistence
     Each issue isolates a distinct architectural mechanism
-14. Architectural Observation | User-Calibrated Output Persistence
+
     
 ---
 
