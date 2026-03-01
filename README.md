@@ -98,9 +98,13 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 
 ---
 
+<img width="1024" height="1024" alt="ready" src="https://github.com/user-attachments/assets/29d9e93a-d24c-4ce8-a929-4f465fbec1a0" />
+
+---
+
 ## Closing Note
 ### With this issue, the current analytical series is complete.
-***The following twelve documented issues form the basis of this analytical conclusion:***
+***The following 14 documented issues form the basis of this analytical conclusion:***
 
 ---
 
