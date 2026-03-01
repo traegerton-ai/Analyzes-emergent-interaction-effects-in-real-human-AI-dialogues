@@ -137,9 +137,8 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 12..Net: Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion
 13. Architectural Observation | User-Calibrated Output Persistence
     Each issue isolates a distinct architectural mechanism
-14. .Net: Architectural Observation | Context Drift, Hypothesis Exposition, and Capacitive Token
-     Erosion in LLM Long-  Term Dialogues #13591
-
+14. Architectural Observation | User-Calibrated Output Persistence
+    
 ---
 
 Taken together, they describe an interconnected pattern of structural behavior emerging from long-term interaction with large language models.
