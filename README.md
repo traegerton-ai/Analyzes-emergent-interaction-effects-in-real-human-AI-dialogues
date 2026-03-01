@@ -59,14 +59,32 @@ However, no comparable data set yet exists.
 
 ---
 
-**Architectural Observation | Systemic Misinterpretation of High-Quality User Interaction as Defensive Signal | Feb 10, 2026**  
+**Architectural Observation | Systemic Misinterpretation of High-Quality User Interaction as Defensive Signal | Feb 05, 2026**  
 [Issue - #134739](https://github.com/microsoft/semantic-kernel/issues/13473#issue-3860028204)  
 
-**Bug: Speech-to-Text Transcription Errors Are Treated as Semantic Truth, Causing Incorrect Intent Detection and Responses | Feb 15, 2026**  
+**Bug: Speech-to-Text Transcription Errors Are Treated as Semantic Truth, Causing Incorrect Intent Detection and Responses | Feb 10, 2026**  
 [Bug - #13520](https://github.com/microsoft/semantic-kernel/issues/13520#issue-3912511737)  
 
 
-**Architectural Risk | Performative Effects of Generative Action Framing Under Epistemic Context Opacity | Febr 20, 2026**  
-[Issue - #13537](https://github.com/microsoft/semantic-kernel/issues/13537#issue-3928066582)
+**Architectural Risk | Performative Effects of Generative Action Framing Under Epistemic Context Opacity | Febr 12, 2026**  
+[Issue - #13537](https://github.com/microsoft/semantic-kernel/issues/13537#issue-3928066582)  
+
+
+**Bug: Missing Proportionality, Consistency, and Reversibility Checks Before Mode Switching. Asymmetric Response Escalation and Structurally Hard-to-Reverse Trust Ruptures in Long-Term Dialogues | Feb 13, 2026**  
+[Bug - #13548](https://github.com/microsoft/semantic-kernel/issues/13548#issue-3941320300)  
+
+<div align="center">
+Conclusion for Microsoft Semantic Kernel (Issue #13548)
+This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "Safety-Reflex" triggered a mode-switch that ignored the established dialogue-memory, leading to a trust rupture. The implementation of the Proportionality Guard is essential to prevent such systemic "abstraction reflexes" from overriding established logical contexts.
+</div>  
+
+**Architectural Observation | Eventuality-Driven Risk Evaluation vs. Evidence-Accumulated Context Modeling | Febr 15, 2026**  
+[Issue - #13576](https://github.com/microsoft/semantic-kernel/issues/13576#issue-3971899374)  
+
+**Architectural Observation | Emergent Reactivation of Resolved Thematic Clusters Due to Missing Persistent Closure Weighting | Feb 18, 2026**  
+
+[Issue - #13578](https://github.com/microsoft/semantic-kernel/issues/13578#issue-3973697751)
+
+
 
 
