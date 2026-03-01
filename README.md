@@ -10,24 +10,21 @@ All findings are based exclusively on real-world usage, concrete case examples, 
 No theoretical abstractions or simulated models are used.
 
 
-## Inhalt
-- Strukturierte Beobachtungen aus realen Mensch–KI-Dialogen  
-- Analyse von Kontextverschiebungen und Fehlinterpretationen  
-- Beschreibung von Korrektur- und Anpassungsdynamiken im Dialog  
-- Dokumentation emergenter Muster auf Systemebene  
+## Content
+- Structured observations from real human-AI dialogues
+- Analysis of context shifts and misinterpretations
+- Description of correction and adaptation dynamics in dialogue
+- Documentation of emergent patterns at the system level
 
-## Ziel
+## Goal
+The goal of this repository is to create transparency and understanding of how meaning, structure, and behavior emerge, change, and stabilize in the dialogue between humans and AI.
 
-Ziel dieses Repositories ist es, Transparenz und Verständnis dafür zu schaffen, wie Bedeutung, Struktur und Verhalten im Dialog zwischen Mensch und KI entstehen, sich verändern und stabilisieren.
+## Scope
+This repository is **not** a theoretical treatise, **not** marketing material, and **not** an AI tutorial.
+It serves solely for the documentation and analytical examination of real-world interactions at the system level.
 
-## Abgrenzung
-
-Dieses Repository ist **keine** theoretische Abhandlung, **kein** Marketingmaterial und **kein** KI-Tutorial.
-
-Es dient ausschließlich der dokumentierenden und analytischen Betrachtung realer Interaktionen auf Systemebene.
-
-
-## Ûbersicht & Analyse Verweise
+## Observations
+### Ûbersicht & Analyse Verweise
 **#A1 Implicit Paralinguistic Modulation in Text Basd AI Interaction**
 
 [#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/main/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
