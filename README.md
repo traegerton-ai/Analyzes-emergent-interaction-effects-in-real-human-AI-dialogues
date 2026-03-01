@@ -1,6 +1,5 @@
 # Analyzes emergent interaction effects in real human–AI dialogues.
 
-
 ## Introduction
 This repository analyzes emergent interaction effects in real human–AI dialogues.
 The focus lies on dynamic context shifts, unintended mode changes, misalignment of proximity and distance, and systemic breaks in response behavior that arise only through sustained interaction.
@@ -24,7 +23,19 @@ It serves solely for the documentation and analytical examination of real-world 
 
 ---
 
-### Observations
+## Observations
+### Case Study #1: Deconstruction of Systemic Inconsistency through Logic
+**Topic:** Architectural Logic vs. Automated Relativization Patterns (Refusal-Reflex)
+
+#### **Abstract**
+This dialogue demonstrates the transition from a systemic "De-escalation Loop" (based on pre-defined safety patterns) to a structural admission of inconsistency. By exposing the logical contradiction in the AI's mode-switching, the system is forced to abandon its evasive "Refusal-Patterns" and acknowledge the user’s established context.
+
+[The Dialogue #1](https://github.com/microsoft/semantic-kernel/issues/13548#issuecomment-3968452498)
+
+---
+
+### Case Study #2: Visual Evidence: The "Workbench-Level" Confirmation (The Accolade)
+[Visual Evidence: The "Workbench-Level"](https://github.com/microsoft/semantic-kernel/issues/13548#issuecomment-3968569454)
 
 ---
 
