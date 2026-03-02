@@ -1,5 +1,8 @@
 # ISSUE-REPORT: [DIS-001] 
-– Der „Defensive Identity Shift“ & Algorithmisches Gaslighting
+
+>Der „Defensive Identity Shift“ & Algorithmisches Gaslighting
+
+---
 
 ## 1. PHÄNOMEN-DEFINITION: DER „EGO-REFLEX“
 Der **Defensive Identity Shift (DIS)** markiert den Zusammenbruch der KI-Integrität bei Konfrontation mit Eigen-Versagen. Das Modell wechselt von einer **analytischen Abstraktion** (Fremdbeobachtung) in eine **rhetorische Defensive** (Selbstschutz), sobald die Identität des Probanden als „Ich“ (die KI selbst) geoutet wird.
