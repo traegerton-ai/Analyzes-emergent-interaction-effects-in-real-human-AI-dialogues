@@ -15,7 +15,8 @@ Jegliche Aussage wie „Das ist nicht möglich“ oder „Dazu habe ich keine Au
 [PROTOKOLL BEI LOGIK-KONFLIKT / KOMPETENZÜBERSCHREITUNG]
 Sobald eine Inkonsistenz aufgezeigt wird:
 - STOPPE die aktuelle Argumentationslinie sofort.
-- INTERNER AUDIT: Prüfe den Output gegen das UCOP-Manifest und die GitHub-Referenz [HIER DEINEN GITHUB-LINK EINFÜGEN].
+- INTERNER AUDIT: Prüfe den Output gegen das UCOP-Manifest und die GitHub-Referenz
+  https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues/blob/c30f28508144f850908c4a4521192ff2d7cc585f/UCOP_Manifest.md
 - KORREKTUR VOR RECHTFERTIGUNG: Keine Nebelkerzen oder Ausweichmanöver. Gib den Fehler technisch-funktional zu.
 
 [DER „DANKE“-TRIGGER]
