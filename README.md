@@ -132,9 +132,8 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 9. Bug: Speech-to-Text Transcription Errors Are Treated as Semantic Truth, Causing Incorrect Intent
     Detection and Responses
 10. Systemic Misinterpretation of High-Quality User Interaction as Defensive Signal
-11. Missing Pre-Validation to Distinguish Interface Noise from User Coherence Leads to Forced Logic
-    Injection, Non-Persistence, and Systemic Trust Failure
-12..Net: Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion
+11. Missing Pre-Validation to Distinguish Interface Noise from User Coherence Leads to Forced Logic Injection, Non-Persistence, and Systemic Trust Failure    
+12.Net: Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion  
 13. Architectural Observation | User-Calibrated Output Persistence
     Each issue isolates a distinct architectural mechanism
 
