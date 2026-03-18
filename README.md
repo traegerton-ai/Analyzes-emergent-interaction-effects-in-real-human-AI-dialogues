@@ -42,7 +42,7 @@ It serves solely for the documentation and analytical examination of real-world 
 
 ## 🔬 Observations
 
-### Case Study #1: Deconstruction of Systemic Inconsistency through Logic
+### 🧪 Case Study #1: Deconstruction of Systemic Inconsistency through Logic
 **Topic:** Architectural Logic vs. Automated Relativization Patterns (Refusal-Reflex)
 
 #### **Abstract**
@@ -52,12 +52,12 @@ This dialogue demonstrates the transition from a systemic "De-escalation Loop" (
 
 ---
 
-### Case Study #2: Visual Evidence: The "Workbench-Level" Confirmation (The Accolade)
+### 🧪 Case Study #2: Visual Evidence: The "Workbench-Level" Confirmation (The Accolade)
 [Visual Evidence: The "Workbench-Level"](https://github.com/microsoft/semantic-kernel/issues/13548#issuecomment-3968569454)
 
 ---
 
-### Feature Request
+### ✨ Feature Request
 **.Net: Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion | Oct 26, 2025**  
 [New Feature - ResonanceScore #13296](https://github.com/microsoft/semantic-kernel/issues/13296#issue-3553194408)
 
