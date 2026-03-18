@@ -67,8 +67,8 @@ Proposal for a developer-facing monitoring framework to detect, quantify, and an
 
 ---
 
-### Overview & Analysis References
-**Architectural Observation | Missing Pre-Validation to Distinguish Interface Noise from User Coherence Leads to Forced Logic Injection, Non-Persistence, and Systemic Trust Failure | Jan 24, 2026**  
+### 📌 Overview & Analysis References
+**⚠️ Architectural Observation | Missing Pre-Validation to Distinguish Interface Noise from User Coherence Leads to Forced Logic Injection, Non-Persistence, and Systemic Trust Failure | Jan 24, 2026**  
 [Issue Missing Pre-Validation - #13469](https://github.com/microsoft/semantic-kernel/issues/13469#issue-3850586986)  
 
 **Supplementary Addendum to Issue #13469 Missing Pre-Validation | Jan 28, 2026**  
@@ -87,18 +87,18 @@ However, no comparable data set yet exists.
 
 ---
 
-**Architectural Observation | Systemic Misinterpretation of High-Quality User Interaction as Defensive Signal | Feb 05, 2026**  
+**⚠️ Architectural Observation | Systemic Misinterpretation of High-Quality User Interaction as Defensive Signal | Feb 05, 2026**  
 [Issue - #134739](https://github.com/microsoft/semantic-kernel/issues/13473#issue-3860028204)  
 
 **Bug: Speech-to-Text Transcription Errors Are Treated as Semantic Truth, Causing Incorrect Intent Detection and Responses | Feb 10, 2026**  
 [Bug - #13520](https://github.com/microsoft/semantic-kernel/issues/13520#issue-3912511737)  
 
 
-**Architectural Risk | Performative Effects of Generative Action Framing Under Epistemic Context Opacity | Febr 12, 2026**  
+**🚨 Architectural Risk | Performative Effects of Generative Action Framing Under Epistemic Context Opacity | Febr 12, 2026**  
 [Issue - #13537](https://github.com/microsoft/semantic-kernel/issues/13537#issue-3928066582)  
 
 
-**Bug: Missing Proportionality, Consistency, and Reversibility Checks Before Mode Switching. Asymmetric Response Escalation and Structurally Hard-to-Reverse Trust Ruptures in Long-Term Dialogues | Feb 13, 2026**  
+**🐞 Bug: Missing Proportionality, Consistency, and Reversibility Checks Before Mode Switching. Asymmetric Response Escalation and Structurally Hard-to-Reverse Trust Ruptures in Long-Term Dialogues | Feb 13, 2026**  
 [Bug - #13548](https://github.com/microsoft/semantic-kernel/issues/13548#issue-3941320300)  
 
 ---
@@ -110,25 +110,25 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 
 ---
 
-**Architectural Observation | Eventuality-Driven Risk Evaluation vs. Evidence-Accumulated Context Modeling | Feb 15, 2026**  
+**⚠️ Architectural Observation | Eventuality-Driven Risk Evaluation vs. Evidence-Accumulated Context Modeling | Feb 15, 2026**  
 [Issue - #13576](https://github.com/microsoft/semantic-kernel/issues/13576#issue-3971899374)  
 
-**Architectural Observation | Emergent Reactivation of Resolved Thematic Clusters Due to Missing Persistent Closure Weighting | Feb 18, 2026**  
+**⚠️ Architectural Observation | Emergent Reactivation of Resolved Thematic Clusters Due to Missing Persistent Closure Weighting | Feb 18, 2026**  
 [Issue - #13578](https://github.com/microsoft/semantic-kernel/issues/13578#issue-3973697751)  
 
-**Architectural Observation | Instruction Persistence Failure in Constrained Editing Contexts | Feb 20, 2026**  
+**⚠️ Architectural Observation | Instruction Persistence Failure in Constrained Editing Contexts | Feb 20, 2026**  
 [Issue - #13582](https://github.com/microsoft/semantic-kernel/issues/13582#issue-3977839266)  
 
-**Architectural Observation | Context Drift, Hypothesis Exposition, and Capacitive Token Erosion in LLM Long-Term Dialogues | Feb 25, 2026**  
+**⚠️ Architectural Observation | Context Drift, Hypothesis Exposition, and Capacitive Token Erosion in LLM Long-Term Dialogues | Feb 25, 2026**  
 [Issue - #13591](https://github.com/microsoft/semantic-kernel/issues/13591#issue-3988841130)  
 
-**Architectural Observation | User-Calibrated Output Persistence | Feb 28, 2026**  
+**⚠️ Architectural Observation | User-Calibrated Output Persistence | Feb 28, 2026**  
 [Issue - #13597](https://github.com/microsoft/semantic-kernel/issues/13597#issue-3994789135)  
 
-**Architectural Observation | Autonomous Dialog State Drift (ADSD) | März 15, 2026**  
+**⚠️ Architectural Observation | Autonomous Dialog State Drift (ADSD) | März 15, 2026**  
 [Issue - #13663](https://github.com/microsoft/semantic-kernel/issues/13663#issue-4078778993)
 
-**Architectural Observation | Attribution Lock-In under Frame Fixation (ALFF) | März 17, 2026** 
+**⚠️ Architectural Observation | Attribution Lock-In under Frame Fixation (ALFF) | März 17, 2026** 
 [Issue - #13670](https://github.com/microsoft/semantic-kernel/issues/13670#issue-4088454211)
 
 
