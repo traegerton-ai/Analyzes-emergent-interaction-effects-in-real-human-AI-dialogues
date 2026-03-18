@@ -9,12 +9,13 @@ This repository is structured as follows:
 2. **Feature Proposals** → system-level extensions (e.g. DDMS)  
 3. **Architectural Issues** → documented structural instabilities in LLM systems  
 
-If you are new, start here:
+---
+
+**If you are new, start here:**  
 → Case Study #1  
 → DDMS Proposal  
 → Issue #13548 (core instability pattern)
 
----
 
 ## Introduction
 This repository analyzes emergent interaction effects in real human–AI dialogues.
