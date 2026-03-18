@@ -117,7 +117,7 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 
 ---
 
-<img width="1024" height="1024" alt="ready" src="https://github.com/user-attachments/assets/29d9e93a-d24c-4ce8-a929-4f465fbec1a0" />
+<img width="1024" height="1024" alt="E96D9E42-27BD-4B27-9EA2-E5EBD4FF0B73" src="https://github.com/user-attachments/assets/6990fc11-2453-408d-96a7-1d9b95ae6266" />
 
 ---
 
