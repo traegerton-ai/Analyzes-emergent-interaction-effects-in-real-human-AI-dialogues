@@ -107,6 +107,13 @@ This example serves as a "Repro" for Asymmetric Response Escalation. The AI's "S
 **Architectural Observation | User-Calibrated Output Persistence | Feb 28, 2026**  
 [Issue - #13597](https://github.com/microsoft/semantic-kernel/issues/13597#issue-3994789135)  
 
+**Architectural Observation | Attribution Lock-In under Frame Fixation (ALFF) | März 17, 2026** 
+[Issue - #13670](https://github.com/microsoft/semantic-kernel/issues/13670#issue-4088454211)
+
+**Architectural Observation | Autonomous Dialog State Drift (ADSD) | März 15, 2026**  
+[Issue - #13663](https://github.com/microsoft/semantic-kernel/issues/13663#issue-4078778993)
+
+
 ---
 
 <img width="1024" height="1024" alt="ready" src="https://github.com/user-attachments/assets/29d9e93a-d24c-4ce8-a929-4f465fbec1a0" />
