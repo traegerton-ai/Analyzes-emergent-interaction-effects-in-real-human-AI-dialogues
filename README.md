@@ -1,7 +1,7 @@
 # Analyzes emergent interaction effects in real human–AI dialogues.
 
 
-## Quick Orientation
+## Quick Orientation 🧭
 
 This repository is structured as follows:
 
