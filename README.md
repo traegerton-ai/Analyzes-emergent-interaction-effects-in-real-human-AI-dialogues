@@ -1,5 +1,21 @@
 # Analyzes emergent interaction effects in real human–AI dialogues.
 
+
+## Quick Orientation
+
+This repository is structured as follows:
+
+1. **Case Studies** → concrete real-world interaction breakdowns  
+2. **Feature Proposals** → system-level extensions (e.g. DDMS)  
+3. **Architectural Issues** → documented structural instabilities in LLM systems  
+
+If you are new, start here:
+→ Case Study #1  
+→ DDMS Proposal  
+→ Issue #13548 (core instability pattern)
+
+---
+
 ## Introduction
 This repository analyzes emergent interaction effects in real human–AI dialogues.
 The focus lies on dynamic context shifts, unintended mode changes, misalignment of proximity and distance, and systemic breaks in response behavior that arise only through sustained interaction.
