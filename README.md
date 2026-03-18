@@ -17,7 +17,7 @@ This repository is structured as follows:
 → Issue #13548 (core instability pattern)
 
 
-## Introduction
+## 🧠 Introduction
 This repository analyzes emergent interaction effects in real human–AI dialogues.
 The focus lies on dynamic context shifts, unintended mode changes, misalignment of proximity and distance, and systemic breaks in response behavior that arise only through sustained interaction.
 
@@ -25,22 +25,23 @@ All findings are based exclusively on real-world usage, concrete case examples, 
 No theoretical abstractions or simulated models are used.
 
 
-## Content
+## 📊 Content
 - Structured observations from real human-AI dialogues
 - Analysis of context shifts and misinterpretations
 - Description of correction and adaptation dynamics in dialogue
 - Documentation of emergent patterns at the system level
 
-## Goal
+## 🎯 Goal
 The goal of this repository is to create transparency and understanding of how meaning, structure, and behavior emerge, change, and stabilize in the dialogue between humans and AI.
 
-## Scope
+## 🔎 Scope
 This repository is **not** a theoretical treatise, **not** marketing material, and **not** an AI tutorial.
 It serves solely for the documentation and analytical examination of real-world interactions at the system level.
 
 ---
 
-## Observations
+## 🔬 Observations
+
 ### Case Study #1: Deconstruction of Systemic Inconsistency through Logic
 **Topic:** Architectural Logic vs. Automated Relativization Patterns (Refusal-Reflex)
 
