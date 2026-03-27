@@ -4,7 +4,7 @@ VON STRUKTURELLEM DRIFT ZU NEAR-THRESHOLD-INSTABILITÄT (REVISED)
 <img width="1536" height="1024" alt="1000137664" src="https://github.com/user-attachments/assets/fc93c48f-f0a0-4076-bec5-a035309f7cee" />
 
 
-Fallstudie:96h
+Fallstudie:
 96h Belastungstest eines Large Language Models (LLM) unter UCOP-Rahmen
 Author: traegerton-ai Christian Pohl
 https://github.com/traegerton-ai
