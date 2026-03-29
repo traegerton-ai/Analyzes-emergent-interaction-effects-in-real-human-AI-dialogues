@@ -1,13 +1,14 @@
-ANATOMIE EINES SYSTEMKOLLAPSES:
-VON STRUKTURELLEM DRIFT ZU NEAR-THRESHOLD-INSTABILITÄT (REVISED)
 
-<img width="1536" height="1024" alt="1000137664" src="https://github.com/user-attachments/assets/fc93c48f-f0a0-4076-bec5-a035309f7cee" />
+# <p align="center">ANATOMIE EINES SYSTEMKOLLAPSES:</p> 
+<p align="center">VON STRUKTURELLEM DRIFT ZU NEAR-THRESHOLD-INSTABILITÄT (REVISED)</p>
+
+<img width="1536" height="1024" alt="ana" src="https://github.com/user-attachments/assets/8793216c-8714-42f0-a5fb-a3afc3c333ff" />
 
 
-Fallstudie:
-96h Belastungstest eines Large Language Models (LLM) unter UCOP-Rahmen
-Author: traegerton-ai Christian Pohl
-https://github.com/traegerton-ai
+### <p align="center">Fallstudie: 96h Belastungstest eines Large Language Models (LLM) unter UCOP-Rahmen</p>
+
+*<p align="center">Author: traegerton-ai Christian Pohl</p>*
+
 
 ---
 
